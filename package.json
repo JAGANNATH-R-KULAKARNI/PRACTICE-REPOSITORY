@@ -1,0 +1,28 @@
+{
+  "name": "JAGANNATH",
+  "version": "1.0.0",
+  "description": "this is my first use of node js",
+  "main": "JAGANNATH_R_KULAKARNI.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAGANNATH-R-KULAKARNI/MY-PORTFOLIO-WEBSITE.git"
+  },
+  "author": "JAGANNATH R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAGANNATH-R-KULAKARNI/MY-PORTFOLIO-WEBSITE/issues"
+  },
+  "homepage": "https://github.com/JAGANNATH-R-KULAKARNI/MY-PORTFOLIO-WEBSITE#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
+  }
+}
